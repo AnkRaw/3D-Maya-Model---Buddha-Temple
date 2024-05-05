@@ -43,7 +43,7 @@ Below are wireframe images of the model:
 
 Check out this video showcasing the model:
 
-[![3D Model Video](media/Front.png)](https://www.youtube.com/watch?v=cwFOzQ79RrI)
+https://www.youtube.com/watch?v=cwFOzQ79RrI
 
 ## Usage
 
