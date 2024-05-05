@@ -42,10 +42,8 @@ Below are wireframe images of the model:
 ### Video
 
 Check out this video showcasing the model:
+[![3D Model](media/model_gif.gif)](https://www.youtube.com/watch?v=cwFOzQ79RrI)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=cwFOzQ79RrI
-" target="_blank"><img src="media/model_gif" 
-alt="3D Model" width="240" height="180" border="10" /></a>
 
 ## Usage
 
