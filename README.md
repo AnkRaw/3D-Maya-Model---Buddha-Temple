@@ -42,6 +42,8 @@ Below are wireframe images of the model:
 ### Video
 
 Check out this video showcasing the model:
+
+
 [![3D Model](media/model_gif.gif)](https://www.youtube.com/watch?v=cwFOzQ79RrI)
 
 
