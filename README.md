@@ -12,27 +12,38 @@ The Buddha temple model is a representation of the beautiful architecture found 
 
 Here are some screenshots of the model:
 
-- ![Screenshot 1](media/Front.png)
-- ![Screenshot 2](media/right.png)
-- ![Screenshot 3](media/left.png)
-- ![Screenshot 3](media/top.png)
-- ![Screenshot 3](media/back.png)
+<div align="center">
+  <img src="media/Front.png" alt="Screenshot 1" width="300"/>
+  <img src="media/right.png" alt="Screenshot 2" width="300"/>
+  <img src="media/left.png" alt="Screenshot 3" width="300"/>
+</div>
+
+<div align="center">
+  <img src="media/top.png" alt="Screenshot 4" width="300"/>
+  <img src="media/back.png" alt="Screenshot 5" width="300"/>
+</div>
 
 ### Wireframes
 
 Below are wireframe images of the model:
 
-- ![Wireframe 1](media/front_wireframe.png)
-- ![Wireframe 2](media/right_wireframe.png)
-- ![Wireframe 3](media/left_wireframe.png)
-- ![Wireframe 2](media/top_wireframe.png)
-- ![Wireframe 3](media/back_wireframe.png)
+<div align="center">
+  <img src="media/front_wireframe.png" alt="Wireframe 1" width="300"/>
+  <img src="media/right_wireframe.png" alt="Wireframe 2" width="300"/>
+  <img src="media/left_wireframe.png" alt="Wireframe 3" width="300"/>
+</div>
+
+<div align="center">
+  <img src="media/top_wireframe.png" alt="Wireframe 4" width="300"/>
+  <img src="media/back_wireframe.png" alt="Wireframe 5" width="300"/>
+</div>
+
 
 ### Video
 
 Check out this video showcasing the model:
 
-[![Model Video](media/model_video_thumbnail.png)](media/Buddha_Temple.ma_ - Autodesk MAYA Model.mp4)
+![Model Video](media/model_video.mp4)
 
 ## Usage
 
@@ -48,5 +59,4 @@ The source files for the model are available in the parent repository:
 
 - `Buddha_Temple.ma`
 - `Buddha_Temple.mb`
-
 
