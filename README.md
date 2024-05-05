@@ -1,18 +1,6 @@
 # Buddha Temple Maya Model
 
-<div align="center">
-  <div style="display: flex; flex-direction: row;">
-    <div style="flex: 1;">
-      <img src="media/Buddha_Temple.jpg" alt="Buddha Temple" width="400"/>
-    </div>
-    <div style="flex: 1;">
-      <a href="media/model_video.mp4">
-        <img src="media/Front.png" alt="Model Video" width="400"/>
-      </a>
-    </div>
-  </div>
-</div>
-
+![Buddha Temple](media/Buddha_Temple.png)
 
 Welcome to the Buddha Temple Model repository! This repository contains a 3D model of the [Buddha temple](https://www.euttaranchal.com/tourism/buddha-temple.php) located in Uttarakhand, India. The model was created as a learning project to explore 3D modeling techniques using Autodesk Maya.
 
@@ -55,7 +43,7 @@ Below are wireframe images of the model:
 
 Check out this video showcasing the model:
 
-![Model Video](media/model_video.mp4)
+[![Model Video](media/Front.png)](media/model_video.mp4)
 
 ## Usage
 
